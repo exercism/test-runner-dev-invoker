@@ -12,4 +12,4 @@ gem "minitest", "~> 5.0.8"
 gem 'timecop'
 
 gem 'mandate'
-gem 'propono'
+gem 'aws-sdk-s3'
